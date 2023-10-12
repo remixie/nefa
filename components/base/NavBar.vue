@@ -11,11 +11,12 @@
           </button>
         </div>
         <ul
-          class="w-1/2 ml-20 text-center h-auto lg:items-center grid grid-cols-3"
+          class="w-2/3 ml-20 text-center h-auto lg:items-center grid grid-cols-4"
         >
           <NavLink name="Patch Notes" url="https://steamcommunity.com/games/2503740/announcements/detail/3732979377044442636 " />
           <NavLink name="News" url="https://store.steampowered.com/news/app/2503740" />
           <NavLink name="Discord" url="https://discord.gg/y9pTt8sC8Z" />
+          <NavLink name="Lobby Maker" url="/lobby_maker" />
         </ul>
       </div>
       <div  class="space-x-3">

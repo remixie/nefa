@@ -1,7 +1,7 @@
 <template>
-  <div class=" bg-gradient-to-t from-zinc-600 to-zinc-800 font-sans ">
+  <div class=" font-sans ">
     <div class="relative">
-      <BaseNavbar />
+      <BaseNavBar />
 
       <main class="text-neutral-800">
         <router-view />

@@ -19,16 +19,14 @@ export default {
     ],
   },
   css: ['@/assets/css/main.css', 'aos/dist/aos.css'],
-  plugins: ['~/plugins/smooth-scroll.js', '~/plugins/mdi.js'],
+  plugins: [],
   components: true,
   buildModules: ['@nuxtjs/eslint-module', '@nuxt/postcss8'],
   modules: [],
-  build: {
-    postcss: {
-      plugins: {
-        tailwindcss: {},
-        autoprefixer: {},
-      },
+  postcss: {
+    plugins: {
+      tailwindcss: {},
+      autoprefixer: {},
     },
   },
   /**

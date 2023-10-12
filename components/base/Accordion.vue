@@ -3,8 +3,6 @@
     <button type="button" class="w-full py-4 text-left" @click="selected = !selected">
       <div class="flex items-center justify-between">
         <span class="font-medium hover:text-orange-200 duration-300 transition-colors">{{ accordion.title }}</span>
-        <ChevronUpIcon v-if="selected" :size="20" />
-        <ChevronDownIcon v-else :size="20" />
       </div>
     </button>
 

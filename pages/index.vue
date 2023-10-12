@@ -33,7 +33,7 @@
             data-aos-once="true"
             data-aos-delay="700">
             <img
-              :src="require('~/assets/img/hero.png')"
+              src="~/assets/img/hero.png"
 
             />
           </div>
@@ -50,7 +50,7 @@
       <BaseSection>
         <div data-aos="fade-right" data-aos-delay="150" class="col-span-12 lg:col-span-6">
           <div class="w-full">
-            <img :src="require('~/assets/img/Evelyn.png')" class="max-h-[800px]" alt="" />
+            <img src="~/assets/img/Evelyn.png" class="max-h-[800px]" alt="" />
           </div>
         </div>
         <div data-aos="fade-left" data-aos-delay="150" class="col-span-12 lg:col-span-6 px-4 sm:px-6 mt-8 text-white">

@@ -1,4 +1,4 @@
-import Vue from 'vue'
+import {Vue} from 'vue'
 import ChevronDownIcon from 'vue-material-design-icons/ChevronDown.vue'
 import ChevronUpIcon from 'vue-material-design-icons/ChevronUp.vue'
 import ChevronRightIcon from 'vue-material-design-icons/ChevronRight.vue'

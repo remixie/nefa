@@ -4,11 +4,11 @@
       <BaseNavbar />
 
       <main class="text-neutral-800">
-        <Nuxt />
+        <router-view />
       </main>
-
+      <div class="py-10 text-gray-400 text-center text-xs arial font-serif">Site Designed by Chloe Main Rem#5626. F.A.Q. is subject to change.<br>All Storm Striker content is owned by Storm Striker Studio. All rights reserved.</div>
     </div>
-    <div class="py-10 text-gray-400 text-center text-xs arial font-serif">Site Designed by Chloe Main Rem#5626. F.A.Q. is subject to change.<br>All Storm Striker content is owned by Storm Striker Studio. All rights reserved.</div>
+
   </div>
 </template>
 <script>

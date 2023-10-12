@@ -43,8 +43,8 @@
         <div
           class="md:w-full md:border-t lg:w-full sm:px-10 py-6 sm:py-12 w-full sm:w-1/2 xl:w-[22rem] space-y-4 sm:border-t border-[#DDDDDD]"
         >
-          <h5 class="text-sm font-medium text-[#666666] focus:outline-none focus:shadow-outline">Newsletter</h5>
-          <p class="text-sm text-[#666666] focus:outline-none focus:shadow-outline">
+          <h5 class="text-sm font-medium text-[#fff] focus:outline-none focus:shadow-outline">Newsletter</h5>
+          <p class="text-sm text-[#fff] focus:outline-none focus:shadow-outline">
             Never miss anything crypto when <br class="sm:hidden" />you're on the go
           </p>
           <div class="flex items-center space-x-2">
@@ -62,7 +62,7 @@
         </div>
       </div>
     </div>
-    <div class="py-8 sm:py-4 text-center text-sm text-[#666666] hover:text-gray-900">
+    <div class="py-8 sm:py-4 text-center text-sm text-[#fff] hover:text-gray-900">
       &copy; Copyright 2022 NEFA LLC. All rights reserved
     </div>
   </footer>

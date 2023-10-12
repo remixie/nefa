@@ -23,10 +23,12 @@ export default {
   components: true,
   buildModules: ['@nuxtjs/eslint-module', '@nuxt/postcss8'],
   modules: [],
-  postcss: {
-    plugins: {
-      tailwindcss: {},
-      autoprefixer: {},
+  build: {
+    postcss: {
+      plugins: {
+        tailwindcss: {},
+        autoprefixer: {},
+      },
     },
   },
   /**

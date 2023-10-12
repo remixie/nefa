@@ -23,7 +23,7 @@
 
           <div class="bg-black text-white p-4 font-serif">
           <b>BREAKING NEWS:</b> If you log in now and successfully complete at least one match, you will receive 2$ worth of game cash that can be used after the official service!
-          <div class="text-xs mt-2">Source: <a href="https://discord.com/channels/1075652756754403358/1148173289114566748/1161646603510227014" class="text-[#fff] duration-300 transition-colors underline hover:text-orange-200">Discord Annoucement</a></div>
+          <div class="text-xs mt-2">Source: <a href="https://discord.com/channels/1075652756754403358/1148173289114566748/1161646603510227014" class="text-[#fff] duration-300 transition-colors underline hover:text-orange-200">Discord Announcement</a></div>
         </div>
           </div>
         </div>

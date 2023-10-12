@@ -16,6 +16,10 @@ export default {
         rel: 'stylesheet',
         href: 'https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap',
       },
+      {
+        rel: 'stylesheet',
+        href: 'https://fonts.googleapis.com/css2?family=Orbitron:wght@500;700;900&display=swap',
+      },
     ],
   },
   css: ['@/assets/css/main.css', 'aos/dist/aos.css'],
